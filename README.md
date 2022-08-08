@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-<img src="https://github.com/v2Kamikaze/weather_app_flutter/blob/main/readme_assets/demo.gif" width="640" height="360" />
+<img src="https://github.com/v2Kamikaze/weather_app_flutter/blob/main/readme_assets/demo.gif" width="360" height="720" />
 
 ## Getting Started
 
