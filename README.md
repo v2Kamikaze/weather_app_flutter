@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Alt Text](https://github.com/v2Kamikaze/weather_app_flutter/blob/main/readme_assets/demo.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
